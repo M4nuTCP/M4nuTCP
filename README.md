@@ -3,7 +3,7 @@
 
 # 🛠️ Skills: 
 
-[![My Skills](https://skillicons.dev/icons?i=kali,linux,bash,powershell,python,cpp,docker,mysql,obsidian,php,vim,vscode,windows,wordpress,debian,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kali,linux,bash,powershell,python,cpp,docker,mysql,obsidian,php,vim,windows,wordpress,debian,java)](https://skillicons.dev)
 
 <img src="https://raw.githubusercontent.com/M4nuTCP/M4nuTCP/output/snake.svg" alt="Snake animation" />
 
