@@ -10,6 +10,8 @@
   <b><i>"Stay Hard."</i></b>
 </p>
 
+---
+
 <p align="center">
 <a>🌱</a>
 </p>
