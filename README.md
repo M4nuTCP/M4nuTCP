@@ -32,9 +32,6 @@
 </div>
 
 <br>
-
-<img src="https://raw.githubusercontent.com/M4nuTCP/M4nuTCP/output/snake.svg" alt="Snake animation" />
-
 ---
 
 <p align="center">
